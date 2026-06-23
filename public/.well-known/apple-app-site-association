@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.naveenbharat.app",
+        "paths": [
+          "/course/*",
+          "/my-courses/*",
+          "/classes/*",
+          "/quiz/*",
+          "/live/*",
+          "/reset-password",
+          "/payment-callback",
+          "/dashboard"
+        ]
+      }
+    ]
+  }
+}
